@@ -5,7 +5,6 @@ Unit tests for ExplanationStabilityEstimator.
 """
 
 import numpy as np
-import pytest
 from trustxai.core.stability import ExplanationStabilityEstimator
 
 

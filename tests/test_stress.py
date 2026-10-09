@@ -13,7 +13,6 @@ from trustxai.explainers.wrappers import FunctionalExplainerWrapper
 from trustxai.core.index import TrustEvaluationResult, TrustStatus
 from sklearn.ensemble import RandomForestClassifier
 from trustxai.explainers.wrappers import ShapWrapper
-from trustxai.perturbations.continuous import L2BallPerturbation
 
 
 def test_perturbation_generator_properties():

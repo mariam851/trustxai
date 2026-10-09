@@ -4,7 +4,7 @@ trustxai.core.benchmark
 Top-level TrustBenchmark orchestrator uniting stability, conformal prediction, and index scoring.
 """
 
-from typing import List, Optional
+from typing import List
 import numpy as np
 
 from trustxai.core.stability import ExplanationStabilityEstimator

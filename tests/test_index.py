@@ -5,7 +5,6 @@ Validation of UnifiedTrustAnalyzer and UTI score computation.
 """
 
 import numpy as np
-import pytest
 from trustxai.core.index import UnifiedTrustAnalyzer, TrustStatus
 
 
