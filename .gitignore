@@ -1,0 +1,38 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environments & Virtual Envs
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# IDE & Editor configs (Local machine settings)
+.vscode/
+.idea/
+
+# Testing & Coverage caches
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated outputs & scratch scripts
+benchmark_results.tex
+test_drive.py
